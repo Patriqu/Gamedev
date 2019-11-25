@@ -1,5 +1,8 @@
 ## Documentation  
 
+[Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)  
+[Direct3D 12 reference](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-reference)  
+
 ## Tutorials  
 
 ## Articles  
