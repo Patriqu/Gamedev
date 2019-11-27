@@ -15,3 +15,15 @@
 [DirectX 12 - Introductory blog article (DirectX Developer Blog)](https://devblogs.microsoft.com/directx/directx-12/)  
 
 [DirectX 12 and Fortnite (DirectX Developer Blog)](https://devblogs.microsoft.com/directx/directx12-and-fortnite/)  
+
+## Books  
+
+[Introduction to 3D Game Programming with Direct3D 12.0](http://d3dcoder.net/d3d12.htm)  
+[Game Programming in C++: Creating 3D Games, First Edition (O'Reilly)](https://learning.oreilly.com/library/view/game-programming-in/9780134598185/)  
+
+## Samples  
+
+[DirectX 12 C++ Official GitHub samples]()  
+
+[dx12-game-programming GitHub Repo in C# (SharpDX)](https://github.com/discosultan/dx12-game-programming)  
+[SharpDX Class Library API](http://sharpdx.org/wiki/class-library-api/)  
