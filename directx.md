@@ -23,7 +23,7 @@
 
 ## Samples  
 
-[DirectX 12 C++ Official GitHub samples]()  
+[DirectX-Graphics-Samples - DirectX 12 C++ Official GitHub Samples](https://github.com/microsoft/DirectX-Graphics-Samples)  
 
 [dx12-game-programming GitHub Repo in C# (SharpDX)](https://github.com/discosultan/dx12-game-programming)  
 [SharpDX Class Library API](http://sharpdx.org/wiki/class-library-api/)  
