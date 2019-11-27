@@ -3,6 +3,8 @@
 [Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)  
 [Direct3D 12 reference](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-reference)  
 
+[DXGI API Reference](https://docs.microsoft.com/en-gb/windows/win32/direct3ddxgi/d3d10-graphics-reference-dxgi)  
+
 ## Tutorials  
 
 ## Articles  
@@ -27,3 +29,8 @@
 
 [dx12-game-programming GitHub Repo in C# (SharpDX)](https://github.com/discosultan/dx12-game-programming)  
 [SharpDX Class Library API](http://sharpdx.org/wiki/class-library-api/)  
+
+## Problems  
+
+[GetCPUDescriptorHandleForHeapStart stack corruption (StackOverflow)](https://stackoverflow.com/questions/34118929/getcpudescriptorhandleforheapstart-stack-corruption)  
+
