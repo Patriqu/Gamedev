@@ -30,6 +30,8 @@
 [dx12-game-programming GitHub Repo in C# (SharpDX)](https://github.com/discosultan/dx12-game-programming)  
 [SharpDX Class Library API](http://sharpdx.org/wiki/class-library-api/)  
 
+[GitHub source code for "Game Programming in C++" by Sanjay Madhav](https://github.com/gameprogcpp/code)  
+
 ## Problems  
 
 [GetCPUDescriptorHandleForHeapStart stack corruption (StackOverflow)](https://stackoverflow.com/questions/34118929/getcpudescriptorhandleforheapstart-stack-corruption)  
