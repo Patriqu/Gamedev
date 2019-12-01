@@ -32,6 +32,8 @@
 
 [GitHub source code for "Game Programming in C++" by Sanjay Madhav](https://github.com/gameprogcpp/code)  
 
+[The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ (GitHub)](https://github.com/microsoft/DirectXTK)  
+
 ## Problems  
 
 [GetCPUDescriptorHandleForHeapStart stack corruption (StackOverflow)](https://stackoverflow.com/questions/34118929/getcpudescriptorhandleforheapstart-stack-corruption)  
