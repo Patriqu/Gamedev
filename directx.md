@@ -38,3 +38,6 @@
 
 [GetCPUDescriptorHandleForHeapStart stack corruption (StackOverflow)](https://stackoverflow.com/questions/34118929/getcpudescriptorhandleforheapstart-stack-corruption)  
 
+## Questions  
+
+[Can I use DirectX 12 with WinRT](https://github.com/microsoft/cppwinrt/issues/282)  
