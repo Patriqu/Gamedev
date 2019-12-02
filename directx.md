@@ -33,6 +33,7 @@
 [GitHub source code for "Game Programming in C++" by Sanjay Madhav](https://github.com/gameprogcpp/code)  
 
 [The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ (GitHub)](https://github.com/microsoft/DirectXTK)  
+[The DirectXTK 12 (GitHub)](https://github.com/Microsoft/DirectXTK12) 
 
 ## Problems  
 
